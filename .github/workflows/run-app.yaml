@@ -1,4 +1,4 @@
-name: 'Run App Kolton ONeal'
+name: 'Run App Kolton ONea'
 
 on: [push, pull_request]
 
